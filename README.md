@@ -8,7 +8,7 @@ A fullstack habit tracker and journaling app, originally developed for my wife t
 
 ## 📌 Project Repositories
 
-- 🧠 **Backend (.NET 7 + PostgreSQL)**  
+- 🧠 **Backend (.NET 8 + PostgreSQL)**  
   [`hannas-habits-backend`](https://github.com/iseaman89/hannas-habits-server)]
 
 - 💻 **Frontend (React + Tailwind CSS)**  
@@ -24,7 +24,7 @@ A fullstack habit tracker and journaling app, originally developed for my wife t
 - Axios  
 
 **Backend**  
-- ASP.NET Core (.NET 7)  
+- ASP.NET Core (.NET 8)  
 - Entity Framework Core  
 - PostgreSQL  
 - JWT Authentication  
@@ -42,7 +42,6 @@ A fullstack habit tracker and journaling app, originally developed for my wife t
 ✔️ User registration & login (JWT-based)  
 ✔️ Add, edit and delete personal habits  
 ✔️ Daily habit check-in system  
-✔️ Private journal entries with timestamps  
 ✔️ Mobile-friendly responsive UI  
 ✔️ Secure and scalable backend
 
