@@ -62,8 +62,8 @@ A fullstack habit tracker and journaling app designed to help users develop dail
 Each part of the project has its own README with setup instructions.  
 See the corresponding repositories for details:
 
-- 🔗 [Backend Setup](https://github.com/YOUR_USERNAME/hannas-habits-backend)
-- 🔗 [Frontend Setup](https://github.com/YOUR_USERNAME/hannas-habits-frontend)
+- 🔗 [Backend Setup](https://github.com/iseaman89/hannas-habits-server)
+- 🔗 [Frontend Setup](https://github.com/iseaman89/hannas-habits-ui)
 
 ---
 
@@ -87,8 +87,3 @@ Hi, I'm **Yevgen Panych**, a career-changer currently training as a Fachinformat
 🌐 [Portfolio](https://panych.site)  
 🐙 [GitHub](https://github.com/iseaman89)
 
----
-
-## 🇩🇪 Zusatzinfo (für deutschsprachige Betrachter:innen)
-
-Dieses Projekt wurde im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung (Cimdata Bremen) entwickelt. Ziel war es, eine moderne Fullstack-Anwendung mit sicherer Authentifizierung und sauberer Architektur umzusetzen – vollständig mit eigenen Konzepten, Design und Code.
