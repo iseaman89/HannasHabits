@@ -50,10 +50,11 @@ A fullstack habit tracker and journaling app, originally developed for my wife t
 
 ## 🧪 Screenshots
 
-> *(Add your own here – you can include: login page, dashboard, journal entry, API Swagger if applicable)*
-
-![screenshot1](./screenshots/habits-dashboard.png)  
-![screenshot2](./screenshots/journal-entry.png)
+![screenshot1](./screenshots/login.png)  
+![screenshot2](./screenshots/daily.png)
+![screenshot3](./screenshots/habits.png)
+![screenshot4](./screenshots/calendar.png)
+![screenshot5](./screenshots/resolutions.png)
 
 ---
 
