@@ -9,10 +9,10 @@ A fullstack habit tracker and journaling app designed to help users develop dail
 ## 📌 Project Repositories
 
 - 🧠 **Backend (.NET 7 + PostgreSQL)**  
-  [`hannas-habits-backend`](https://github.com/YOUR_USERNAME/hannas-habits-backend)
+  [`hannas-habits-backend`](https://github.com/iseaman89/hannas-habits-server)]
 
 - 💻 **Frontend (React + Tailwind CSS)**  
-  [`hannas-habits-frontend`](https://github.com/YOUR_USERNAME/hannas-habits-frontend)
+  [`hannas-habits-frontend`](https://github.com/iseaman89/hannas-habits-ui)
 
 ---
 
@@ -22,7 +22,6 @@ A fullstack habit tracker and journaling app designed to help users develop dail
 - React, React Router  
 - Tailwind CSS  
 - Axios  
-- Zustand (or Redux Toolkit if used)
 
 **Backend**  
 - ASP.NET Core (.NET 7)  
@@ -33,7 +32,7 @@ A fullstack habit tracker and journaling app designed to help users develop dail
 
 **Other Tools**  
 - Git & GitHub  
-- Docker (in progress)  
+- Docker   
 - RESTful API
 
 ---
