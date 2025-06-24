@@ -1,8 +1,8 @@
 # Hanna's Habits 🧘‍♀️📓
 
-A fullstack habit tracker and journaling app designed to help users develop daily routines, stay consistent, and reflect on their mental well-being.
+A fullstack habit tracker and journaling app, originally developed for my wife to help her build daily routines, stay consistent, and reflect on her thoughts — while also serving as a personal project to improve my skills in fullstack development.
 
-> 🛠️ Built as a showcase project during my training as a Software Developer (Fachinformatiker für Anwendungsentwicklung).
+🛠️ Built during my training as a Software Developer (Fachinformatiker für Anwendungsentwicklung) to deepen my understanding of real-world web application architecture.
 
 ---
 
